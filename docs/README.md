@@ -48,7 +48,7 @@ Atráves da matriz de correlação é possível observar que os atributos Compri
 
 ### Dispersão dos Atributos
 <div align="center">
-    <img src="figs/dispersao.png" alt="Correlação dos Atributos" width="800" height="200">
+    <img src="figs/dispersao.png" alt="Correlação dos Atributos" width="600" height="200">
   <br>
   <em>Figura 4: Dispersão dos atributos largura e comprimento da Sélepa e Pétola</em>
 </div>
